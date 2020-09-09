@@ -1,0 +1,17 @@
+.kavoon-font{
+  font-family: kavoon, monospace;
+}
+
+.button-attr{
+  padding-top: 20px;
+  font-size: 30px;
+  font-family: kavoon, monospace;
+}
+  
+  .project-img-size{
+    width: 500px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: thin;
+  }
+  
